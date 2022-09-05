@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juilzze 🕶</h1>
+<h1 align="center">Hi, I'm Juilzze 🔥</h1>
 <h3 align="center">I'm Finnish welfare technology student. I'm interested in all sort of technology devices and programming.</h3>
 <p align="left">
 </p>
