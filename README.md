@@ -3,8 +3,8 @@
 <p align="left">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skills.thijs.gg/icons?i=python,lua,mysql,js,html,css" />
   </a>
