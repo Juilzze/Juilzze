@@ -10,4 +10,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juilzze&show_icons=true&theme=radical&text_color=5257ff&bg_color=ffffff&locale=en" alt="juilzze" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juilzze&show_icons=true&theme=algolia&text_color=ffffff&bg_color=01223d&locale=en" alt="juilzze" /></p>
