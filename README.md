@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Juilzze 🔥</h1>
-<h3 align="center">I'm Finnish welfare technology student. On my free time I do FiveM developing. I'm also interested in all kinds of technology devices and programming.</h3>
+<h3 align="center">I'm Finnish computer science student. On my free time I do FiveM developing. I'm also interested in all kinds of technology devices and programming.</h3>
 <p align="left">
 </p>
 
