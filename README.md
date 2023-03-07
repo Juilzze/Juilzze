@@ -10,5 +10,10 @@
     <img src="https://skills.thijs.gg/icons?i=python,lua,mysql,js,html,css,vue,nuxtjs,webflow" />
   </a>
 </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juilzze&show_icons=true&theme=algolia&text_color=ffffff&bg_color=01223d&locale=en" alt="juilzze" /></p>
+<h3>Statistics</h3>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=juilzze&show_icons=true&theme=algolia&text_color=ffffff&bg_color=01223d&locale=en)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juilzze&theme=algolia&text_color=ffffff&bg_color=01223d&locale=en)
