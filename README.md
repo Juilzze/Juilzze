@@ -7,7 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=python,lua,mysql,js,html,css,vue,nuxtjs,webflow" />
+    <img src="https://skills.thijs.gg/icons?i=python,lua,mysql,js,html,css,vue,nuxtjs,react,nodejs,webflow"/>
   </a>
 </p>
 <br>
